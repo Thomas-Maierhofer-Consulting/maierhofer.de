@@ -1,37 +1,30 @@
 # Willkommen bei Thomas Maierhofer Consulting
 
-You can use the [editor on GitHub](https://github.com/Thomas-Maierhofer-Consulting/maierhofer.de/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## Impressum
+Thomas Maierhofer
+Thomas Maierhofer Consulting
+Rossruckstrasse 10
+88339 Bad Waldsee
+E-Mail: thomas@maierhofer.de
+Telefon: +4915233539822
+UST-IdNr.: DE300699198
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Datenschutzerklärung
+Die Benutzung unserer Website ist ohne Registrierung möglich. Auf dem Server werden KEINE PERSONENBEZOGENEN DATEN gespeichert. Zur technischen Zwecken - insbesondere zur Abwehr von Angriffen gegen unsere Website - werden Seitenaufrufe anonymisiert aufgezeichnet. Diese Website enthält keine Funktionen welche personenbezogene Daten verarbeitet. Auch zur Kontaktaufnahme wird grundsätzlich nur auf Möglichkeiten verwiesen die nicht direkt von dieser Webseite berietgestellt werden und auf freiwilliger Basis unter voller Kontrolle durch den jeweiligen Nutzer erfolgen - wie z.B. Telefon und E-Mail. Grundsätzlich erfolgt keine Datenweitergabe an Dritte.
 
-```markdown
-Syntax highlighted code block
+### Cookies
+Beim Besuch unserer Website werden COOKIES (Kleine Textdateien zum Speichern Nutzerspezifischer Informationen auf ihrem Endgerät) verwendet. Die Speicherung dieser Cookies ist integraler Bestandteil der verwendeten Plattform "CONCRETE5" und kann technisch nicht problemlos deaktiviert werden. Die Entwickler von CONCRETE5 haben sich zur Verwendung von Cookies entschieden um ihr Produkt - und damit unsere Website -benutzerfreundlicher zu gestalten.
 
-# Header 1
-## Header 2
-### Header 3
+### Google
+Diese Webseite benutzt Dienste, Daten und Technologien der Firma Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA. 
+Durch die Verwendung der Dienste von Google werden deren Webserver verwendet, welche Ihre IP Addresse kennen und auch Cookies auf ihrem Endgerät speichern. 
+Details zum Umfang und der Art der von Google LLC erfassten und verarbeiteten Daten finden Sie auf der Google LLC Datenschutzerklärung.
+Die auf dieser Webseite verwendeten Dienste, Daten und Technologien im Einzelnen:
 
-- Bulleted
-- List
+### Google Fonts
+Diese Website verwendet Google Fonts. Diese Web Schriftarten werden verwendet um das Aussehen und die Lesbarkeit unserer Webseite zu verbessern.
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Thomas-Maierhofer-Consulting/maierhofer.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Trackingtools
+Auf unserer Website werden KEINE TRACKINGTOOLS (wie Google Analytics, Piwik, Urchin, ...) verwendet.
