@@ -3,20 +3,13 @@
 
 
 ## Impressum
-
-Thomas Maierhofer
-
-Thomas Maierhofer Consulting
-
-Rossruckstrasse 10
-
-88339 Bad Waldsee
-
-E-Mail: thomas@maierhofer.de
-
-Telefon: +4915233539822
-
-UST-IdNr.: DE300699198
+Thomas Maierhofer  
+Thomas Maierhofer Consulting  
+Rossruckstrasse 10  
+88339 Bad Waldsee  
+E-Mail: thomas@maierhofer.de  
+Telefon: +4915233539822  
+UST-IdNr.: DE300699198  
 
 ## Datenschutzerklärung
 Die Benutzung unserer Website ist ohne Registrierung möglich. Auf dem Server werden KEINE PERSONENBEZOGENEN DATEN gespeichert. Zur technischen Zwecken - insbesondere zur Abwehr von Angriffen gegen unsere Website - werden Seitenaufrufe anonymisiert aufgezeichnet. Diese Website enthält keine Funktionen welche personenbezogene Daten verarbeitet. Auch zur Kontaktaufnahme wird grundsätzlich nur auf Möglichkeiten verwiesen die nicht direkt von dieser Webseite berietgestellt werden und auf freiwilliger Basis unter voller Kontrolle durch den jeweiligen Nutzer erfolgen - wie z.B. Telefon und E-Mail. Grundsätzlich erfolgt keine Datenweitergabe an Dritte.
